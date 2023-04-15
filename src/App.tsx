@@ -1,5 +1,9 @@
-function App() {
-  return <div className="App">Hello World!</div>;
-}
+import { Home } from "./pages/Home";
 
-export default App;
+export const App = () => {
+  return (
+    <div className="App">
+      <Home />
+    </div>
+  );
+};
