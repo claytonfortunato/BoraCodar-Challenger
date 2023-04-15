@@ -24,6 +24,15 @@ export const Logo = styled.div`
 export const ContentPage = styled.div`
   display: flex;
   gap: 30px;
+
+  a {
+    font-size: 24px;
+    transition: all 200ms linear;
+    &:hover,
+    &:focus-within {
+      color: ${(props) => props.theme.pink};
+    }
+  }
 `;
 
 export const Box = styled.div`
@@ -31,6 +40,5 @@ export const Box = styled.div`
     font-size: 16px;
 
     color: ${(props) => props.theme.pink};
-    text-decoration: none;
   }
 `;

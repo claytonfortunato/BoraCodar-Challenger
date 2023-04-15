@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 import * as C from "./styles";
 
 export const Header = () => {
@@ -7,9 +9,9 @@ export const Header = () => {
         <h1>#BoraCodar</h1>
       </C.Logo>
       <C.ContentPage>
-        <h1>Home</h1>
+        <Link to="/">Home</Link>
 
-        <h1>Challenges</h1>
+        <Link to="/challenges">Challenges</Link>
       </C.ContentPage>
       <C.Box>
         <a href="#">Participe também! 🚀</a>

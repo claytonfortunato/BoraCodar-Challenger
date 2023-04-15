@@ -15,4 +15,14 @@ export const GlobalStyle = createGlobalStyle`
     body {
         background-color: ${(props) => props.theme.black02};
     }
+
+    a {
+        color: ${(props) => props.theme.gray};
+        font-size: 1.6rem;
+        text-decoration: none;
+
+        &:focus-within{
+            color: inherit;
+        }
+    }
 `;
