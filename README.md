@@ -1,6 +1,6 @@
 
 
-<h1 align="center">#BoraCodar = Challendes</h1>
+<h1 align="center">#BoraCodar - Challendes</h1>
 
 <p align="center">
   Projetos contendo todos os desafios do <a href="https://boracodar.dev">#boraCodar</a> realizados semanalmente pela  <a href="https://www.rocketseat.com.br/">Rocketseat</a> para fins de aprendizagem.
@@ -42,9 +42,9 @@ Aqui estão os serviços utilizados neste projeto.
 
 | #    | Name           | Code    | Deploy |
 | :--- | :------------- | :------ | :------|
-| `01` | `Music Player` |  [🧬](https://github.com/claytonfortunato/-BoraCodar/tree/main/music-player) |[👾](https://reliable-unicorn-2ccf84.netlify.app/) |
-| `02` | `Product Card` |  [🧬](https://github.com/claytonfortunato/-BoraCodar/tree/main/product-card) |[👾](https://fancy-gecko-c54685.netlify.app/) |
-| `03` | `Button e Cursores` |  [🧬](https://github.com/claytonfortunato/-BoraCodar/tree/main/button) |[👾](https://button-cursors.vercel.app/) |
+| `01` | `Music Player` |  [🧬](https://github.com/claytonfortunato/Music-player-01) |[👾](https://reliable-unicorn-2ccf84.netlify.app/) |
+| `02` | `Product Card` |  [🧬](https://github.com/claytonfortunato/ProductCard-02) |[👾](https://fancy-gecko-c54685.netlify.app/) |
+| `03` | `Button e Cursores` |  [🧬](https://github.com/claytonfortunato/Button-Cursors) |[👾](https://button-cursors.vercel.app/) |
 
 
 ## 💻 Getting started
