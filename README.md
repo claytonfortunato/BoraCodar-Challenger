@@ -34,7 +34,6 @@ Aqui estão os serviços utilizados neste projeto.
 
 - [GitHub](https://github.com/)
 - [Vercel](https://www.vercel.com/)
-- 
 
 ## 🔥 Desafios
 
@@ -45,7 +44,7 @@ Aqui estão os serviços utilizados neste projeto.
 | `01` | `Music Player` |  [🧬](https://github.com/claytonfortunato/Music-player-01) |[👾](https://reliable-unicorn-2ccf84.netlify.app/) |
 | `02` | `Product Card` |  [🧬](https://github.com/claytonfortunato/ProductCard-02) |[👾](https://fancy-gecko-c54685.netlify.app/) |
 | `03` | `Button e Cursores` |  [🧬](https://github.com/claytonfortunato/Button-Cursors) |[👾](https://button-cursors.vercel.app/) |
-
+| `04` | `Chat` |  [🧬](https://github.com/claytonfortunato/webChat-04) |[👾](https://web-chat-04.vercel.app/) |
 
 ## 💻 Getting started
 
