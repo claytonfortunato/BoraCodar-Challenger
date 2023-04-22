@@ -81,4 +81,31 @@ export const ChallengesList: CardChallenges[] = [
     site: "https://conversor-moedas-09.vercel.app/",
     github: "https://github.com/claytonfortunato/ConversorMoedas-09",
   },
+  {
+    id: 10,
+    image: "src/assets/img/weather.png",
+    title: "Desafio #10 - Forecast Weather",
+    description:
+      "Um projeto de Previsão de tempo com humidade,suntime,vento e previsão dos próximos dias.",
+    site: "https://weather-10.vercel.app/",
+    github: "https://github.com/claytonfortunato/Weather-10",
+  },
+  {
+    id: 11,
+    image: "src/assets/img/login-att.png",
+    title: "Desafio #11 - Página de Login",
+    description:
+      "Um projeto de página de login com os erros de login ou input vazio mostrando em página.",
+    site: "page-login-11.vercel.app",
+    github: "https://github.com/claytonfortunato/PageLogin-11",
+  },
+  {
+    id: 12,
+    image: "src/assets/img/kanban-att.png",
+    title: "Desafio #12 - Página de Kanban",
+    description:
+      "Um projeto de página de Kanban, mostrando as tarefas feitas e por fazeer e podem arrastar por listas. ",
+    site: "https://kanban-12.vercel.app/",
+    github: "https://github.com/claytonfortunato/Kanban-12",
+  },
 ];

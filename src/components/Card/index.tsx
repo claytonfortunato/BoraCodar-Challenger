@@ -14,7 +14,7 @@ interface CardProps {
 export const Card = ({ title, img, description, site, git }: CardProps) => {
   return (
     <C.Container>
-      <img src={img} alt="" />
+      <img src={img} alt="" className="bg-img" />
       <C.Wrapper>
         <h3>{title}</h3>
         <p>{description}</p>

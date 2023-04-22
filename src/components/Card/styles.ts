@@ -14,8 +14,9 @@ export const Container = styled.div`
     scale: 1.1;
   }
 
-  img {
+  .bg-img {
     width: 400px;
+    height: 190px;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
   }
