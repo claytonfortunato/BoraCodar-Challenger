@@ -18,6 +18,10 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
+## 👾 Deploy
+
+[Deploy](https://bora-codar-challenger.vercel.app)
+
 ## 🚀 Tecnologias
 
 Aqui estão as tecnologias utilizadas neste projeto.
@@ -48,6 +52,9 @@ Aqui estão os serviços utilizados neste projeto.
 | `05` | `Calculadora` |  [🧬](https://github.com/claytonfortunato/Calculadora-TS) |[👾](https://calculadora-ts.vercel.app/) |
 | `06` | `Cartão Embarque` |  [🧬](https://github.com/claytonfortunato/Cartao-embarque-06) |[👾](https://cartao-embarque-06.vercel.app/) |
 | `07` | `Bloco Carnaval` |  [🧬](https://github.com/claytonfortunato/BlocoCarnaval-07) |[👾](https://bloco-carnaval-07.vercel.app/) |
+| `08` | `Dashboard` |  [🧬](https://github.com/claytonfortunato/dashboard-08) |[👾](https://dashboard-08.vercel.app/) |
+| `09` | `Conversor` |  [🧬](https://github.com/claytonfortunato/ConversorMoedas-09) |[👾](https://conversor-moedas-09.vercel.app/) |
+| `10` | `Weather` |  [🧬](https://github.com/claytonfortunato/Weather-10) |[👾](https://weather-10.vercel.app/) |
 
 ## 💻 Getting started
 
