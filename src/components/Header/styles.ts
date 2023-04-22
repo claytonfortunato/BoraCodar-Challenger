@@ -36,9 +36,14 @@ export const ContentPage = styled.div`
 `;
 
 export const Box = styled.div`
+  transition: all ease-in 0.2s;
   a {
     font-size: 16px;
 
     color: ${(props) => props.theme.pink};
+  }
+
+  &:hover {
+    scale: 1.1;
   }
 `;
