@@ -17,6 +17,8 @@ export const Challenges = () => {
           title={item.title}
           img={item.image}
           description={item.description}
+          site={item.site}
+          git={item.github}
         />
       ))}
     </C.Container>
