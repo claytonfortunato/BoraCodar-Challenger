@@ -1,7 +1,24 @@
-import { Link } from "react-router-dom";
+import { useState } from "react";
+
+import { ChallengesList } from "../../data/challenges";
+import { CardChallenges } from "../../@types/type";
 
 import * as C from "./styles";
+import { Card } from "../../components/Card";
 
 export const Challenges = () => {
-  return <C.Container>Challenges</C.Container>;
+  const [cards, setCards] = useState<CardChallenges[]>(ChallengesList);
+
+  return (
+    <C.Container>
+      {cards.map((item, index) => (
+        <Card
+          key={index}
+          title={item.title}
+          img={item.image}
+          description={item.description}
+        />
+      ))}
+    </C.Container>
+  );
 };
