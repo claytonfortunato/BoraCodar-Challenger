@@ -45,6 +45,7 @@ Aqui estão os serviços utilizados neste projeto.
 | `02` | `Product Card` |  [🧬](https://github.com/claytonfortunato/ProductCard-02) |[👾](https://fancy-gecko-c54685.netlify.app/) |
 | `03` | `Button e Cursores` |  [🧬](https://github.com/claytonfortunato/Button-Cursors) |[👾](https://button-cursors.vercel.app/) |
 | `04` | `Chat` |  [🧬](https://github.com/claytonfortunato/webChat-04) |[👾](https://web-chat-04.vercel.app/) |
+| `05` | `Calculadora` |  [🧬](https://github.com/claytonfortunato/Calculadora-TS) |[👾](https://calculadora-ts.vercel.app/) |
 
 ## 💻 Getting started
 
