@@ -3,7 +3,7 @@ import { CardChallenges } from "../@types/type";
 export const ChallengesList: CardChallenges[] = [
   {
     id: 1,
-    image: "src/assets/img/Music-player.png",
+    image: "/img/Music-player.png",
     title: "Desafio #01 - Music Player",
     description: "Uma page com a face de music player.",
     site: "https://reliable-unicorn-2ccf84.netlify.app/",
@@ -11,7 +11,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 2,
-    image: "src/assets/img/product-card.png",
+    image: "/img/product-card.png",
     title: "Desafio #02 - Produto Card",
     description:
       "Um card de produto que possui a função de 360 grau para mostrar o card.",
@@ -20,7 +20,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 3,
-    image: "src/assets/img/button.png",
+    image: "/img/button.png",
     title: "Desafio #03 - Botão e Cursores",
     description:
       "Uma página de botão e cursores, com funções styles de cada cursores.",
@@ -29,7 +29,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 4,
-    image: "src/assets/img/webchat.png",
+    image: "/img/webchat.png",
     title: "Desafio #04 - Web Chat",
     description:
       "Uma página simples de chat funcional, esse projeto destaca uma função simples de bate-papo na página",
@@ -38,7 +38,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 5,
-    image: "src/assets/img/ts.calculadora.png",
+    image: "/img/ts.calculadora.png",
     title: "Desafio #05 - Calculadora",
     description:
       "Uma página de calculadora simples, com todas as funções similares de uma calculadora.",
@@ -47,7 +47,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 6,
-    image: "src/assets/img/embarque-06.png",
+    image: "/img/embarque-06.png",
     title: "Desafio #06 - Cartão de Embarque",
     description:
       "Um projeto de cartão de embarque, desenvolvido uma tela onde o usuário visualiza um cartão de embarque.",
@@ -56,7 +56,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 7,
-    image: "src/assets/img/blococarnaval.png",
+    image: "/img/blococarnaval.png",
     title: "Desafio #07 - Bloco de Carnaval",
     description:
       "Um projeto de bloco de carnaval, com busca de localidade e pesquisa.",
@@ -65,7 +65,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 8,
-    image: "src/assets/img/dashboard.png",
+    image: "/img/dashboard.png",
     title: "Desafio #08 - Dashboard",
     description:
       "Um projeto de dashboard, cálculos de vendas e metas no projeto.",
@@ -74,7 +74,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 9,
-    image: "src/assets/img/conversor.png",
+    image: "/img/conversor.png",
     title: "Desafio #09 - Conversor de Moedas",
     description:
       "Um projeto de conversor de moedas, projeto simulando com as taxas de câmbio.",
@@ -83,7 +83,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 10,
-    image: "src/assets/img/weather.png",
+    image: "/img/weather.png",
     title: "Desafio #10 - Forecast Weather",
     description:
       "Um projeto de Previsão de tempo com humidade,suntime,vento e previsão dos próximos dias.",
@@ -92,7 +92,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 11,
-    image: "src/assets/img/login-att.png",
+    image: "/img/login-att.png",
     title: "Desafio #11 - Página de Login",
     description:
       "Um projeto de página de login com os erros de login ou input vazio mostrando em página.",
@@ -101,7 +101,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 12,
-    image: "src/assets/img/kanban-att.png",
+    image: "/img/kanban-att.png",
     title: "Desafio #12 - Página de Kanban",
     description:
       "Um projeto de página de Kanban, mostrando as tarefas feitas e por fazeer e podem arrastar por listas. ",
