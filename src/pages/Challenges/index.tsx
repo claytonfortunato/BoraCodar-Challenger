@@ -11,16 +11,18 @@ export const Challenges = () => {
 
   return (
     <C.Container>
-      {cards.map((item, index) => (
-        <Card
-          key={index}
-          title={item.title}
-          img={item.image}
-          description={item.description}
-          site={item.site}
-          git={item.github}
-        />
-      ))}
+      <C.Wrapper>
+        {cards.map((item, index) => (
+          <Card
+            key={index}
+            title={item.title}
+            img={item.image}
+            description={item.description}
+            site={item.site}
+            git={item.github}
+          />
+        ))}
+      </C.Wrapper>
     </C.Container>
   );
 };

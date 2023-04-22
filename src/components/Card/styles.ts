@@ -31,7 +31,7 @@ export const Wrapper = styled.div`
   }
 
   p {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     line-height: 130%;
   }
 `;
@@ -43,6 +43,9 @@ export const BoxWeb = styled.div`
   margin: 1rem;
 
   a {
+    display: flex;
+
+    gap: 1rem;
     background: ${(props) => props.theme.black02};
     padding: 0.4rem 2rem;
     border-radius: 6px;
@@ -51,6 +54,10 @@ export const BoxWeb = styled.div`
     &:hover {
       background-color: ${(props) => props.theme.gray600};
       color: ${(props) => props.theme.black};
+    }
+
+    img {
+      width: 2.4rem;
     }
   }
 `;

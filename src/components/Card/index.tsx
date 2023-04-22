@@ -1,3 +1,6 @@
+import Rocket from "../../assets/icons/rocket-launch.svg";
+import Github from "../../assets/icons/github-logo.svg";
+
 import * as C from "./styles";
 
 interface CardProps {
@@ -18,9 +21,11 @@ export const Card = ({ title, img, description, site, git }: CardProps) => {
       </C.Wrapper>
       <C.BoxWeb>
         <a href={site} target="_blank">
+          <img src={Rocket} alt="" />
           Deploy
         </a>
         <a href={git} target="_blank">
+          <img src={Github} alt="" />
           Github
         </a>
       </C.BoxWeb>
