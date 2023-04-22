@@ -47,6 +47,7 @@ Aqui estão os serviços utilizados neste projeto.
 | `04` | `Chat` |  [🧬](https://github.com/claytonfortunato/webChat-04) |[👾](https://web-chat-04.vercel.app/) |
 | `05` | `Calculadora` |  [🧬](https://github.com/claytonfortunato/Calculadora-TS) |[👾](https://calculadora-ts.vercel.app/) |
 | `06` | `Cartão Embarque` |  [🧬](https://github.com/claytonfortunato/Cartao-embarque-06) |[👾](https://cartao-embarque-06.vercel.app/) |
+| `07` | `Bloco Carnaval` |  [🧬](https://github.com/claytonfortunato/BlocoCarnaval-07) |[👾](https://bloco-carnaval-07.vercel.app/) |
 
 ## 💻 Getting started
 
