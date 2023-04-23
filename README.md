@@ -2,6 +2,9 @@
 
 <h1 align="center">#BoraCodar - Challendes</h1>
 
+
+
+
 <p align="center">
   Projetos contendo todos os desafios do <a href="https://boracodar.dev">#boraCodar</a> realizados semanalmente pela  <a href="https://www.rocketseat.com.br/">Rocketseat</a> para fins de aprendizagem.
 </p>
@@ -17,6 +20,8 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
+
+![challenges](https://user-images.githubusercontent.com/104373308/233812456-6a887d81-ace2-4d99-a958-94da1b290d74.png)
 
 ## 👾 Deploy
 
