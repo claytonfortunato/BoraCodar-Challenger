@@ -60,6 +60,8 @@ Aqui estão os serviços utilizados neste projeto.
 | `08` | `Dashboard` |  [🧬](https://github.com/claytonfortunato/dashboard-08) |[👾](https://dashboard-08.vercel.app/) |
 | `09` | `Conversor` |  [🧬](https://github.com/claytonfortunato/ConversorMoedas-09) |[👾](https://conversor-moedas-09.vercel.app/) |
 | `10` | `Weather` |  [🧬](https://github.com/claytonfortunato/Weather-10) |[👾](https://weather-10.vercel.app/) |
+| `11` | `Login` |  [🧬](https://github.com/claytonfortunato/PageLogin-11) |[👾](page-login-11.vercel.app) |
+| `12` | `Kanban` |  [🧬](https://github.com/claytonfortunato/Kanban-12) |[👾](kanban-12.vercel.app) |
 
 ## 💻 Getting started
 
