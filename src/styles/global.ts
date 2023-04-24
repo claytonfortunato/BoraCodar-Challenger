@@ -3,6 +3,7 @@ import { createGlobalStyle } from "styled-components";
 export const GlobalStyle = createGlobalStyle`
     :root {
         font-size: 62.5%;
+        overflow: hidden;
     }
 
     * {
@@ -14,6 +15,7 @@ export const GlobalStyle = createGlobalStyle`
 
     body {
         background-color: ${(props) => props.theme.black02};
+        height: 100vh;
   }
     
     a {

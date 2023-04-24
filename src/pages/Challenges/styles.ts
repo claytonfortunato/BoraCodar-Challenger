@@ -22,14 +22,14 @@ export const Wrapper = styled.div`
   position: relative;
   overflow-x: auto;
 
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+
   &:hover {
     ::-webkit-scrollbar-thumb {
       background-color: ${(props) => props.theme.gray};
       border-radius: 999px;
-    }
-
-    ::-webkit-scrollbar {
-      width: 6px;
     }
   }
 
