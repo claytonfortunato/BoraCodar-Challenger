@@ -9,8 +9,32 @@ export const Container = styled.div`
 
 export const Wrapper = styled.div`
   max-width: 1440px;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  height: 80.2vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
   background: ${(props) => props.theme.black};
   border-radius: 12px;
+
+  overflow: auto;
+
+  position: relative;
+  overflow-x: auto;
+
+  &:hover {
+    ::-webkit-scrollbar-thumb {
+      background-color: ${(props) => props.theme.gray};
+      border-radius: 999px;
+    }
+
+    ::-webkit-scrollbar {
+      width: 6px;
+    }
+  }
+
+  @media (min-width: 1310px) {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
 `;
