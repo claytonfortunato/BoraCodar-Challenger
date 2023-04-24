@@ -1,9 +1,11 @@
 import { CardChallenges } from "../@types/type";
 
+import music from "../assets/img/Music-player.png";
+
 export const ChallengesList: CardChallenges[] = [
   {
     id: 1,
-    image: "../src/assets/img/Music-player.png",
+    image: `${music}`,
     title: "Desafio #01 - Music Player",
     description: "Uma page com a face de music player.",
     site: "https://reliable-unicorn-2ccf84.netlify.app/",
