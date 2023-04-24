@@ -3,7 +3,7 @@ import { CardChallenges } from "../@types/type";
 export const ChallengesList: CardChallenges[] = [
   {
     id: 1,
-    image: "/assets/img/Music-player.png",
+    image: "src/assets/img/Music-player.png",
     title: "Desafio #01 - Music Player",
     description: "Uma page com a face de music player.",
     site: "https://reliable-unicorn-2ccf84.netlify.app/",
@@ -11,7 +11,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 2,
-    image: "/img/product-card.png",
+    image: "/src/assets/img/product-card.png",
     title: "Desafio #02 - Produto Card",
     description:
       "Um card de produto que possui a função de 360 grau para mostrar o card.",
@@ -20,7 +20,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 3,
-    image: "/img/button.png",
+    image: "./src/assets/img/button.png",
     title: "Desafio #03 - Botão e Cursores",
     description:
       "Uma página de botão e cursores, com funções styles de cada cursores.",
@@ -29,7 +29,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 4,
-    image: "/img/webchat.png",
+    image: "img/webchat.png",
     title: "Desafio #04 - Web Chat",
     description:
       "Uma página simples de chat funcional, esse projeto destaca uma função simples de bate-papo na página",
