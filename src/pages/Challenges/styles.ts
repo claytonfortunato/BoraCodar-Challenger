@@ -9,7 +9,7 @@ export const Container = styled.div`
 
 export const Wrapper = styled.div`
   max-width: 1440px;
-  height: 80.2vh;
+  height: 80.4vh;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -20,7 +20,8 @@ export const Wrapper = styled.div`
   overflow: auto;
 
   position: relative;
-  overflow-x: auto;
+
+  overflow-x: hidden;
 
   ::-webkit-scrollbar {
     width: 6px;

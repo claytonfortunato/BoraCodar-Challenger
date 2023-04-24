@@ -29,7 +29,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 4,
-    image: "img/webchat.png",
+    image: "../src/assets/img/webchat.png",
     title: "Desafio #04 - Web Chat",
     description:
       "Uma página simples de chat funcional, esse projeto destaca uma função simples de bate-papo na página",
@@ -38,7 +38,7 @@ export const ChallengesList: CardChallenges[] = [
   },
   {
     id: 5,
-    image: "/img/ts.calculadora.png",
+    image: "../src/assets/img/ts.calculadora.png",
     title: "Desafio #05 - Calculadora",
     description:
       "Uma página de calculadora simples, com todas as funções similares de uma calculadora.",

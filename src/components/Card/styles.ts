@@ -5,7 +5,7 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 1.4rem;
+  margin: 2rem;
   background: ${(props) => props.theme.gray300};
   border-radius: 10px;
   transition: all ease-in 0.4s;
