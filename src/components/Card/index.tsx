@@ -1,5 +1,5 @@
-import Rocket from "../../assets/icons/rocket-launch.svg";
-import Github from "../../assets/icons/github-logo.svg";
+import { RocketLaunch } from "phosphor-react";
+import { GithubLogo } from "phosphor-react";
 
 import * as C from "./styles";
 
@@ -21,11 +21,11 @@ export const Card = ({ title, img, description, site, git }: CardProps) => {
       </C.Wrapper>
       <C.BoxWeb>
         <a href={site} target="_blank">
-          <img src={Rocket} alt="" />
+          <RocketLaunch size={22} />
           Deploy
         </a>
         <a href={git} target="_blank">
-          <img src={Github} alt="" />
+          <GithubLogo size={22} />
           Github
         </a>
       </C.BoxWeb>

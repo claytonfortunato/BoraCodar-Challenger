@@ -12,6 +12,7 @@ import conversor from "../assets/img/conversor.png";
 import weather from "../assets/img/weather.png";
 import login from "../assets/img/login-att.png";
 import kanban from "../assets/img/kanban-att.png";
+import credit from "../assets/img/card-credit.png";
 
 export const ChallengesList: CardChallenges[] = [
   {
@@ -117,8 +118,17 @@ export const ChallengesList: CardChallenges[] = [
     image: `${kanban}`,
     title: "Desafio #12 - Página de Kanban",
     description:
-      "Um projeto de página de Kanban, mostrando as tarefas feitas e por fazeer e podem arrastar por listas. ",
+      "Um projeto de página de Kanban, mostrando as tarefas feitas e por fazer e podem arrastar por listas. ",
     site: "https://kanban-12.vercel.app/",
     github: "https://github.com/claytonfortunato/Kanban-12",
+  },
+  {
+    id: 13,
+    image: `${credit}`,
+    title: "Desafio #13 - Cartão de Crédito",
+    description:
+      "Um projeto formúlario de Cartão de Crédito, mostrando frente e verso do cartão.",
+    site: "https://cartao-13.vercel.app/",
+    github: "https://github.com/claytonfortunato/Cartao-13",
   },
 ];

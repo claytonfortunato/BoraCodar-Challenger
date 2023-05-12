@@ -56,9 +56,5 @@ export const BoxWeb = styled.div`
       background-color: ${(props) => props.theme.gray600};
       color: ${(props) => props.theme.black};
     }
-
-    img {
-      width: 2.4rem;
-    }
   }
 `;
